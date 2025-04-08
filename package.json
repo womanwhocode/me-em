@@ -1,0 +1,17 @@
+{
+  "name": "me-em",
+  "version": "1.0.0",
+  "description": "e2e test ME+EM",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "author": "Alena Zaitseva",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^9.6.0",
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.0",
+    "expect-playwright": "^0.8.0"
+  }
+}
